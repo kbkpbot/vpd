@@ -26,4 +26,4 @@ Goto [src](./src) directy, execute
 
 Also, you can build it under Windows/Linux /X86_64/ARM.
 
-Please note, you must install [v](https://github.com/vlang/v) and install [viup](https://github.com/kbkpbot/viup)
+Please note, you must install [v](https://github.com/vlang/v) and install [viup](https://github.com/kbkpbot/viup), [cbsl](https://github.com/kbkpbot/cbsl).
